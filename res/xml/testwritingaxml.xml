@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Name>
+        <First>Nancy</First>
+        <Middle>J</Middle>
+        <Last>Davolio</Last>
+    </Name>
+    <Street>506 20th ave E Apt 2A</Street>
+    <City>Seattle</City>
+    <Zip>112412</Zip>
+</PreferenceScreen>
